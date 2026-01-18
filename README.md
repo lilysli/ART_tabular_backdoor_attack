@@ -1,6 +1,6 @@
 # Tabular Backdoor Attack
 
-This notebook demonstrates how to use the ART library (version 1.20.1) to conduct a backdoor attack on a phishing detection model.
+This notebook demonstrates how to conduct a backdoor attack on a phishing detection model (compatible with ART).
 
 It consists of the following steps:
 1) Loading, cleaning, and splitting the tabular dataset
